@@ -1,0 +1,1 @@
+export type { Wellcome } from './wellcome/types'

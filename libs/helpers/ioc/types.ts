@@ -1,0 +1,1 @@
+export type { interfaces } from 'inversify'

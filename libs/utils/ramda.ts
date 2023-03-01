@@ -1,0 +1,1 @@
+export { pipe, compose } from 'ramda'
